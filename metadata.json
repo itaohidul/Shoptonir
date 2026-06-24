@@ -1,0 +1,6 @@
+{
+  "name": "Shoptonir Modest Wear",
+  "description": "An elegant Muslim women clothing boutique with interactive 3D product displays, an AI personal stylist, and custom fabric visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
